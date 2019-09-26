@@ -1,0 +1,2 @@
+# Race
+A base Unity example racing project that will be iterated and built upon until it reaches a complete game. I will focus on creating a beautifully aesthetic Front End menu system as well as incorporating elements in other areas such as a Leaderboard, better in-game spedometer, and other UI/HUD elements that need improving. May even take it as far as creating new levels, incorporating multiplayer sessions, and a back end data base system for player/profile progression.
